@@ -7,16 +7,16 @@ This script process sample data from Samsung study by combining test-set and tra
 
 
 ##Code Sets
-Subject_Code:	Each participant was given a code from 1 to 30.
-Activity:	The name of the activity performed. Decoded from the activity data set.
+Subject_Code:	Each participant was given a code from 1 to 30.  
+Activity:	The name of the activity performed. Decoded from the activity data set.  
 
-Measurements of the subjet's body accelrometer in three axis. Mean and standard deviation
-*tBodyAcc-mean()-X
-*tBodyAcc-mean()-Y
-*tBodyAcc-mean()-Z      
-*tBodyAcc-std()-X
-*tBodyAcc-std()-Y
-*tBodyAcc-std()-Z
+Measurements of the subjet's body accelrometer in three axis. Mean and standard deviation  
+*tBodyAcc-mean()-X  
+*tBodyAcc-mean()-Y  
+*tBodyAcc-mean()-Z  
+*tBodyAcc-std()-X  
+*tBodyAcc-std()-Y  
+*tBodyAcc-std()-Z  
 
 Measurements of the subjet's gravitational accelrometer in three axis. Mean and standard deviation
 *tGravityAcc-mean()-X
